@@ -31,7 +31,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Udhayasankaran04/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393933/c77b0bb7-0afb-4da7-9f9c-914587833391)
+![image](https://github.com/Udhayasankaran04/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393933/5d4fc0be-707f-4dad-b018-c0c2f8da6d55)
 
 ### Output:
 ![image](https://github.com/Udhayasankaran04/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393933/9910f939-f83f-4bf8-b751-81505bd45aa3)
